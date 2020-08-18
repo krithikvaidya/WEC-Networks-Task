@@ -1,2 +1,5 @@
-A repository containing my attempt for the Networks task in  
-[this](https://docs.google.com/document/d/15xa3qrzj1-DF2VxmxsVBDO3hDt0X9sMm7iq58YbpTAA/edit) document
+# ECN-Support-Analysis
+
+This repository contains an exploration of Explicit Congestion Notification (ECN), and a script to check for ECN support in the network between the client (you) and any web server.
+
+Check [About ECN.pdf](About%20ECN.pdf) for further details
