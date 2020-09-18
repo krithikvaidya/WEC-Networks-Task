@@ -1,5 +1,5 @@
 ---
-labels: "Hacktoberfest"
+labels: Hacktoberfest
 ---
 
 ### Description
